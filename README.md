@@ -2,7 +2,7 @@
 
 <a href="https://pkg.go.dev/github.com/miriambudayr/pet-project-30-go"><img src="https://pkg.go.dev/badge/github.com/miriambudayr/pet-project-30-go.svg" alt="Go Reference"></a>
 
-The Pet Project 30 Go library provides convenient access to the [Pet Project 30 REST API](https://swagger.ioooooooooo)
+The Pet Project 30 Go library provides convenient access to the [Pet Project 30 REST API](https://swagger.iooooooo)
 from applications written in Go.
 
 It is generated with [Stainless](https://www.stainless.com/).
