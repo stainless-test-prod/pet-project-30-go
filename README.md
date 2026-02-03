@@ -2,7 +2,7 @@
 
 <a href="https://pkg.go.dev/github.com/miriambudayr/pet-project-30-go"><img src="https://pkg.go.dev/badge/github.com/miriambudayr/pet-project-30-go.svg" alt="Go Reference"></a>
 
-The Pet Project 30 Go library provides convenient access to the [Pet Project 30 REST API](https://swagger.ioooooooooo)
+The Pet Project 30 Go library provides convenient access to the [Pet Project 30 REST API](https://swagger.iooooooo)
 from applications written in Go.
 
 It is generated with [Stainless](https://www.stainless.com/).
@@ -24,7 +24,7 @@ Or to pin the version:
 <!-- x-release-please-start-version -->
 
 ```sh
-go get -u 'github.com/miriambudayr/pet-project-30-go@v0.0.1'
+go get -u 'github.com/miriambudayr/pet-project-30-go@v0.1.0'
 ```
 
 <!-- x-release-please-end -->
@@ -359,7 +359,7 @@ This package generally follows [SemVer](https://semver.org/spec/v2.0.0.html) con
 
 We take backwards-compatibility seriously and work hard to ensure you can rely on a smooth upgrade experience.
 
-We are keen for your feedback; please open an [issue](https://www.github.com/miriambudayr/pet-project-30-go/issues) with questions, bugs, or suggestions.
+We are keen for your feedback; please open an [issue](https://github.com/miriambudayr/pet-project-30-go/issues) with questions, bugs, or suggestions.
 
 ## Contributing
 
